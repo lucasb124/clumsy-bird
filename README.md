@@ -1,4 +1,4 @@
-Clumsy Bird
+lucasb124's Clumsy Bird
 ===========
 
 A MelonJS made "Flappy Bird" clone.
